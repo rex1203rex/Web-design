@@ -1,0 +1,55 @@
+.body{
+	background-image: url('package/img/table.jpg');
+	background-size: cover;
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+}
+
+.w{
+	position: fixed;
+	right: 10%;
+	bottom: 180px;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+
+.word{
+	font-family: 'Microsoft JhengHei';
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.b{
+	font-family: 'Microsoft JhengHei';
+	font-size: 1.5rem;
+	font-weight: bold;
+    bottom: 15px;
+}
+
+.w5{
+	position: fixed;
+	right: 10%;
+	bottom: 7%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color:gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+
+.w5:hover{
+	background-color: #5B5B5B;
+	color: white;
+}

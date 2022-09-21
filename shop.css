@@ -1,0 +1,130 @@
+.body{
+	background-image: url('package/img/table.jpg');
+	background-size: cover;
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+}
+.h1{
+	position: fixed;
+	top: 1%;
+	color: black;
+	left: 15%;
+	font-family: 'Microsoft JhengHei';
+	font-size: 3rem;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px gray;
+}
+.w{
+	position: fixed;
+	top: 20%;
+	left: 5%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w1{
+	position: fixed;
+	top: 20%;
+	left: 14%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w2{
+	position: fixed;
+	top: 20%;
+	left: 24%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.select{
+	position: fixed;
+	top: 32%;
+	left: 5%;
+	border-style: solid;
+	color: black;
+	background-color: transparent;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+}
+.select1{
+	position: fixed;
+	top: 32%;
+	left: 14%;
+	border-style: solid;
+	color: black;
+	background-color: transparent;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+}
+.submit{
+	position: fixed;
+	left: 18%;
+	top: 32%;
+	border-radius: 1px;
+	border-style: solid;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: white;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+
+}
+.out{
+	position: fixed;
+	left: 5%;
+	top: 80%;
+	border-radius: 1px;
+	border-style: solid;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: white;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+}
+.w:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w1:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w2:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.submit:hover{
+	background-color: white;
+	color: #5B5B5B;
+}
+.out:hover{
+	background-color: white;
+	color: #5B5B5B;
+}

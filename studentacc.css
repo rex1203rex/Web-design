@@ -1,0 +1,50 @@
+.body{
+	background-image: url('package/img/table.jpg');
+	background-size: cover;
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+}
+
+.p1{
+	position: fixed;
+	top: 5%;
+	left: 5%;
+	border-style: solid;
+	color: black;
+	background-color: transparent;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+.submit{
+	position: fixed;
+	right: 10%;
+	bottom: 15%;
+	border-radius: 10px;
+	border:0;
+	padding:3px 8px;
+	font-size: 1.5rem;
+	color: #F0F0F0;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+}
+
+.submit:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+
+.p{
+	position: fixed;
+	top: 12%;
+	left: 5%;
+	border-style: solid;
+	color: black;
+	background-color: transparent;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+}

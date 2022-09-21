@@ -1,0 +1,149 @@
+.h1{
+	position: fixed;
+	top: 1%;
+	color: black;
+	left: 5%;
+	font-family: 'Microsoft JhengHei';
+	font-size: 3rem;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px gray;
+}
+.body{
+	background-image: url('package/img/table.jpg');
+	background-size: cover;
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+}
+.title{
+	position: fixed;
+	border-style: solid;
+	padding:3px 8px;
+	top: 13%;
+	color: black;
+	left: 5%;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px gray;
+}
+.p{
+	position: fixed;
+	top: 23%;
+	left: 5%;
+	border-style: solid;
+	color: black;
+	background-color: transparent;
+	font-family: 'Microsoft JhengHei';
+	font-size: 1rem;
+	font-weight: bold;
+}
+.w{
+	position: fixed;
+	right: 10%;
+	bottom: 25%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+
+.w1{
+	position: fixed;
+	right: 10%;
+	bottom: 20%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color: gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w2{
+	position: fixed;
+	right: 10%;
+	bottom: 15%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color:gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w3{
+	position: fixed;
+	right: 10%;
+	bottom: 30%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color:gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w4{
+	position: fixed;
+	right: 10%;
+	bottom: 35%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color:gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w5{
+	position: fixed;
+	right: 10%;
+	bottom: 40%;
+	border-radius: 1px;
+	border:0;
+	padding:2px 5px;
+	font-size: 1.5rem;
+	color:gray;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: transparent;
+	border-bottom: 1px solid gray;
+}
+.w:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w1:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w2:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w3:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w4:hover{
+	background-color: #5B5B5B;
+	color: white;
+}
+.w5:hover{
+	background-color: #5B5B5B;
+	color: white;
+}

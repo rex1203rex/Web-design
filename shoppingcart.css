@@ -1,0 +1,56 @@
+ .submit{                                       /*button*/
+	position: fixed;
+	right: 10%;
+	bottom: 25%;
+	border-radius: 10px;
+	border:0;
+	padding:3px 8px;
+	font-size: 1.5rem;
+	color: #F0F0F0;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+}
+
+ .submit1{                                       /*button*/
+	position: fixed;
+	right: 10%;
+	bottom: 17%;
+	border-radius: 10px;
+	border:0;
+	padding:3px 8px;
+	font-size: 1.5rem;
+	color: #F0F0F0;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+}
+
+ .submit2{                                       /*button*/
+	position: fixed;
+	right: 10%;
+	bottom: 9%;
+	border-radius: 10px;
+	border:0;
+	padding:3px 8px;
+	font-size: 1.5rem;
+	color: #F0F0F0;
+	font-family: 'Microsoft JhengHei';
+	font-weight: bold;
+	background-color: gray;
+}
+
+.submit:hover{
+	background-color: #5B5B5B;
+	color: white;
+}   
+
+.body{
+	background-image: url('package/img/table.jpg');
+	background-size: cover;
+	border-style: double;
+	border-width: 5px;
+	border-color: black;
+}
+.submit1:hover{background-color:#5B5B5B; color:white;}
+.submit2:hover{background-color:#5B5B5B; color:white;}
